@@ -35,6 +35,6 @@ const awardBonuses = () => {
       console.log(":(");
     }
   }
-}
+};
 
 awardBonuses();
